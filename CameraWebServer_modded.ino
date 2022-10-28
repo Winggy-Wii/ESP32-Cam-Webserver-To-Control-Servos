@@ -37,8 +37,8 @@ IPAddress secondaryDNS(8, 8, 4, 4); //optional
 
 #define PAN_PIN 14
 #define TILT_PIN 15
-const char* ssid = "Quy Phat";
-const char* password = "13061968";
+const char* ssid = "SSID";
+const char* password = "PASS";
 
 void startCameraServer();
 
